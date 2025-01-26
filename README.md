@@ -1,15 +1,8 @@
 # Tictactoe
 
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
+
+
 <html>
     <head>
         <title>Tic-Tac-Toe game</title>
